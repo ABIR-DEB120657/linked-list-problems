@@ -36,12 +36,14 @@ The project is designed to help developers and students **visualize, implement, 
 
 ---
 
-## 📂 Project Structure (Animated)
+## 📂 Project Structure (Animated & Row View)
 
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=LinkedListProblems/;basics/;intermediate/;advanced/;README.md">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=FF5733&center=true&vCenter=true&width=700&lines=LinkedListProblems/;basics/;intermediate/;advanced/;README.md" alt="Animated Project Structure" />
   </a>
+  <br>
+  <p><b>Row View:</b> LinkedListProblems → basics → intermediate → advanced → README.md</p>
 </div>
 
 ---
@@ -120,8 +122,4 @@ Contributions are welcome! Open a **Pull Request** to add new problems, optimize
 ## 🌐 Connect With Me
 
 * LinkedIn: [Abir Deb](https://www.linkedin.com/in/abir-deb-41794137b)
-* GitHub: [@abir-deb120657](https://github.com/abir-deb120657)
-
----
-
-*Made with ❤️ in Java and animations*
+* GitHub: [@abir-deb120657]
